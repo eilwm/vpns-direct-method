@@ -251,7 +251,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Email: your.email@institution.edu
+- Email: kshita1@uci.edu
 
 ## Acknowledgments
 
